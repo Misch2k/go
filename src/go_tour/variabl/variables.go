@@ -6,6 +6,6 @@ var c, python, java bool
 
 func main() {
 	var i int
-	python = true;
+	python = true
 	fmt.Println(i, c, python, java)
 }
